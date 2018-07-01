@@ -17,7 +17,6 @@
 			"mossy_stonebrick.json": "mossy_stone_bricks.json",
 			"nether_brick.json": "nether_bricks.json",
 			"noteblock.json": "note_block.json",
-			"fence_gate.json": "oak_fence_gate.json",
 			"paeonia.json": "peony.json",
 			"powered_comparator.json": "comparator.json",
 			"powered_repeater.json": "repeater.json",
@@ -448,6 +447,51 @@
 				"wood_pickaxe.png": "wooden_pickaxe.png",
 				"wood_shovel.png": "wooden_shovel.png",
 				"wood_sword.png": "wooden_sword.png"
+			},
+			"entity": {
+				"boat": {
+					"boat_acacia.png": "acacia.png",
+					"boat_birch.png": "birch.png",
+					"boat_darkoak.png": "darkoak.png",
+					"boat_jungle.png": "jungle.png",
+					"boat_oak.png": "oak.png",
+					"boat_spruce.png": "spruce.png"
+				},
+				"endercrystal": {
+					"endercrystal.png": "end_crystal.png",
+					"endercrystal_beam.png": "end_crystal_beam.png"
+				},
+				"illager": {
+					"fangs.png": "evoker_fangs.png"
+				},
+				"llama": {
+					"llama_brown.png": "brown.png",
+					"llama_creamy.png": "creamy.png",
+					"llama_gray.png": "gray.png",
+					"llama_white.png": "white.png",
+					"llama.png": "creamy.png",
+					"decor": {
+						"decor_black.png": "black.png",
+						"decor_blue.png": "blue.png",
+						"decor_brown.png": "brown.png",
+						"decor_cyan.png": "cyan.png",
+						"decor_gray.png": "gray.png",
+						"decor_green.png": "green.png",
+						"decor_light_blue.png": "light_blue.png",
+						"decor_light_gray.png": "light_gray.png",
+						"decor_lime.png": "lime.png",
+						"decor_magenta.png": "magenta.png",
+						"decor_orange.png": "orange.png",
+						"decor_ping.png": "ping.png",
+						"decor_purple.png": "purple.png",
+						"decor_red.png": "red.png",
+						"decor_white.png": "white.png",
+						"decor_yellow.png": "yellow.png"
+					}
+				},
+				"whiter": {
+					"wither_invul.png": "whiter_invulnerable.png"
+				}
 			}
 		},
 
